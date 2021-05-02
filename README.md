@@ -90,6 +90,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 
 ### Generating Docs
 
+* [Doxygen](https://www.doxygen.nl/index.html) - Doxygen is the de facto standard tool for generating documentation from almost all popular programming languages. (contributed by [@nocomplexity](https://github.com/nocomplexity))
 * [docco](http://jashkenas.github.io/docco/) - Pretty docs from source code comments with ports for many languages. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [DocumentUp](http://documentup.com/jeromegn/documentup) - Instantly beautify your Github repositories' `README.md`. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Sphinx](http://sphinx-doc.org/) - Comprehensive documentation tool using restructuredText with beautiful HTML and PDF output. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
