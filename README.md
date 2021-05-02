@@ -85,6 +85,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Sequelize](http://docs.sequelizejs.com/) - Simple, clear and well-structured docs with a complete Class Reference and listing of all public methods. (contributed by [@bandantonio](https://twitter.com/bandantonio))
 * [Vue.js 3.x Docs](https://v3.vuejs.org/guide/introduction.html) - Awesome guide on the Vue.js framework, one of the best docs of any javascript frameworks in my opinion. If you had read them you don't need other manuals on the net to start coding with Vue. (co-contributed by [@flppv](https://github.com/flppv) & [@jinjiang](https://github.com/jinjiang))
 * [RStudio Documentation](https://docs.rstudio.com/) - Clean, simple, and easy on the eyes. (contributed by [@foxnic](https://github.com/foxnic))
+* [API Blueprint](https://github.com/apiaryio/api-blueprint) Clean, easy to skim. (Contributed by @pharkmillups)
 
 ### Writing about Docs 
 
