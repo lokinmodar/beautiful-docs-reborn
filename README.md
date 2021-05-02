@@ -1,4 +1,10 @@
-**DO YOU WANT TO BUILD AND WRITE GLORIOUS TECHNICAL DOCUMENTATION FULL TIME? EMAIL mark@helium.com. WE NEED YOU.**
+# History
+On Sunday, May 2nd, 2021 someone shared the root repository with me. And this line stood out to me:
+> **DO YOU WANT TO BUILD AND WRITE GLORIOUS TECHNICAL DOCUMENTATION FULL TIME? EMAIL mark@helium.com. WE NEED YOU.**
+
+It was a time-capsule, as the repo hadn't had any updates in 5 years. But though it was silly, I couldn't resist. On a whim I tried emailing, because I'd just entered a phase of looking for my next career step. Don't know if I'll hear back, but meanwhile, I see there's a lot of community contributions after that last update that were never processed...so, I thought it might be interesting to apply a little of that myself. 
+
+I'm not personally brave enough to post my own email address here, but I still plan on checking GitHub notifications if you file an issue or PR. 
 
 # Beautiful Docs
 
