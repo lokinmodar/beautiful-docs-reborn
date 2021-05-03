@@ -15,6 +15,7 @@ With that in mind, here's a list of docs and other developer resources that myse
 This should be updated fairly regularly. As usual, **pull requests are encouraged**. 
 * If you're contributing a link, be sure to include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.
 * All docs are listed in the order they were added. Keep this order when submitting your PR. 
+* Links should use `https:` not `http:`. I opted not to delete old links I couldn't update to HTTPS, but added the warning **NOT-HTTPS**
 
 [Mark](https://twitter.com/pharkmillups)
 
