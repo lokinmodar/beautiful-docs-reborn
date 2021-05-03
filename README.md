@@ -90,8 +90,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [ØMQ - The Guide](https://zguide.zeromq.org/page:all) - Exciting documentation for an exciting lib. Concise working code examples available in multiple languages. Concepts are explained clearly. (contributed by [kindkid](https://github.com/kindkid))
 ### Writing about Docs 
 
-* [Designing Great API Docs](https://www.pixelstech.net/article/1331352900-Designing-Great-API-Docs) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
 * **NOT-HTTPS** [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
+* [Designing Great API Docs](https://www.pixelstech.net/article/1331352900-Designing-Great-API-Docs) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
 * [Write the Docs](https://conf.writethedocs.org) - A conference for authors of technical documentation. (contributed by [@macintux](https://twitter.com/macintux))
 * [Writing Great Documentation](https://jacobian.org/series/great-documentation/) - Covers a variety of topics relating to writing good documentation such as content, style, formatting and so on. (contributed by [Paul A. Wilson](https://github.com/paulalexwilson)). Also check out the [slidedeck](https://www.heavybit.com/wp-content/uploads/2016/04/jacob-kaplan-moss-how-great-documentation-drives-developer-adoption.pdf).
 
