@@ -17,6 +17,7 @@ jobs:
           retry: true
           verbosity: 'ERROR'
           linksToSkip: >-
+             # Not sure why these fail
              https://developer.android.com/docs,
              https://docs.riak.com/, 
              https://www.linode.com/docs/, 
