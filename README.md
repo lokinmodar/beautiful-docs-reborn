@@ -21,13 +21,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 
 ### And Now For The Docs 
 
-* **NOT-HTTPS** [Abjad: Modeling Music in Python](http://abjad.mbrsi.org/) - Clean styling, and impressive integration of figures and diagrams. (contributed by [@adorsk](https://github.com/adorsk))
-* **NOT-HTTPS** [CodernityDB](http://labs.codernity.com/codernitydb/index.html) - Clean, extensive, useful. I also love the fact that the day the software was released the documentation was this extensive.
-* **NOT-HTTPS** [Pow Annotated Source](http://pow.cx/docs/) - Built with [docco.](https://github.com/jashkenas/docco) (contributed by [@BonzoESC](https://twitter.com/BonzoESC))
-* **NOT-HTTPS** [Savon.rb](http://savonrb.com/) - (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
-* **NOT-HTTPS** [Sequelize](http://docs.sequelizejs.com/) - Simple, clear and well-structured docs with a complete Class Reference and listing of all public methods. (contributed by [@bandantonio](https://twitter.com/bandantonio))
-* **NOT-HTTPS** [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux))
-* **NOT-HTTPS** [rubyamqp.info](http://rubyamqp.info) - A number of in-depth guides that cover Ruby `amqp` gem but also try to explain AMQP 0.9.1 features, why they exist, and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
 * [API Blueprint](https://github.com/apiaryio/api-blueprint) Clean, easy to skim. (Contributed by @pharkmillups)
 * [Android Developer Documentation](https://developer.android.com/docs) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
 * [Atlassian GIT Tutorials](https://www.atlassian.com/git/) - Documentation and tutorials on Git. I like their layout. It is simple and focused on explaining the concepts with good diagrams, tutorials and glossary. (contributed by [@vaseehh](https://twitter.com/vaseehh))
@@ -88,21 +81,25 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [gevent API Docs](https://www.gevent.org/intro.html) - Clean, polished docs for gevent. (contributed by [rubik](https://github.com/rubik))
 * [hogan.js](https://twitter.github.io/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [ØMQ - The Guide](https://zguide.zeromq.org/page:all) - Exciting documentation for an exciting lib. Concise working code examples available in multiple languages. Concepts are explained clearly. (contributed by [kindkid](https://github.com/kindkid))
-### Writing about Docs 
 
-* **NOT-HTTPS** [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
+#### http links, not https
+* **NOT-HTTPS** [Abjad: Modeling Music in Python](http://abjad.mbrsi.org/) - Clean styling, and impressive integration of figures and diagrams. (contributed by [@adorsk](https://github.com/adorsk))
+* **NOT-HTTPS** [CodernityDB](http://labs.codernity.com/codernitydb/index.html) - Clean, extensive, useful. I also love the fact that the day the software was released the documentation was this extensive.
+* **NOT-HTTPS** [Pow Annotated Source](http://pow.cx/docs/) - Built with [docco.](https://github.com/jashkenas/docco) (contributed by [@BonzoESC](https://twitter.com/BonzoESC))
+* **NOT-HTTPS** [Savon.rb](http://savonrb.com/) - (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
+* **NOT-HTTPS** [Sequelize](http://docs.sequelizejs.com/) - Simple, clear and well-structured docs with a complete Class Reference and listing of all public methods. (contributed by [@bandantonio](https://twitter.com/bandantonio))
+* **NOT-HTTPS** [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux))
+* **NOT-HTTPS** [rubyamqp.info](http://rubyamqp.info) - A number of in-depth guides that cover Ruby `amqp` gem but also try to explain AMQP 0.9.1 features, why they exist, and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
+
+### Writing about Docs 
 * [Designing Great API Docs](https://www.pixelstech.net/article/1331352900-Designing-Great-API-Docs) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
 * [Write the Docs](https://conf.writethedocs.org) - A conference for authors of technical documentation. (contributed by [@macintux](https://twitter.com/macintux))
 * [Writing Great Documentation](https://jacobian.org/series/great-documentation/) - Covers a variety of topics relating to writing good documentation such as content, style, formatting and so on. (contributed by [Paul A. Wilson](https://github.com/paulalexwilson)). Also check out the [slidedeck](https://www.heavybit.com/wp-content/uploads/2016/04/jacob-kaplan-moss-how-great-documentation-drives-developer-adoption.pdf).
 
-### Generating Docs
+#### http links, not https
+* **NOT-HTTPS** [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
 
-* **NOT-HTTPS** [ApiGen](http://apigen.org/) - Creates clean API documentation from PHP source code (contributed by [bryceadams](https://bryce.se/))
-* **NOT-HTTPS** [JSDoc](http://usejsdoc.org/) - Generate JavaScript API documentation directly from source code comments. Also useful as a style guide for JS commenting, in general. Google uses a version of JSDoc tags for its [Closure compiler](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler).
-* **NOT-HTTPS** [Markdoc](http://markdoc.org/) - Lightweight documentation/wiki generator in Python, released in the [public domain](https://unlicense.org/). (contributed by [Neelfyn](https://neelfyn.com/))
-* **NOT-HTTPS** [MireDot](http://www.miredot.com) - REST API documentation generator for Java. Plugs into your build process and generates a searchable html page. (contributed by [bertvh](https://github.com/bertvh))
-* **NOT-HTTPS** [SassDoc](http://sassdoc.com/) - A Sass documentation generator that utilizes inline comments to make pretty and powerful docs. (contributed by [Hugo Giraudel](https://github.com/HugoGiraudel))
-* **NOT-HTTPS** [Sphinx](http://sphinx-doc.org/) - Comprehensive documentation tool using restructuredText with beautiful HTML and PDF output. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
+### Generating Docs
 * [ApiDoc](https://github.com/apidoc/apidoc) RESTful web API Documentation Generator that creates documentation from API descriptions in your source code. (contributed by [Trenton Broughton](https://github.com/trenton42))
 * [Asciidoctor](https://asciidoctor.org/) - Asciidoctor is a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. (contributed by [ThomasG77](https://github.com/ThomasG77))
 * [Bookdown](https://bookdown.org/) - A open-source (GPL-3) R package to facilitate writing books and long-form articles/reports with R Markdown. Support for languages other than R, including C/C++, Python, and SQL, etc. (contributed by [ThomasG77](https://github.com/ThomasG77))
@@ -133,3 +130,11 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [dr.js](https://github.com/adobe-webplatform/dr.js) - Tiny JavaScript documentation generator from the author of RaphaëlJS.  (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [gd2md-html](https://github.com/evbacher/gd2md-html/wiki) - gd2md-html is a free Google Docs add-on that converts a formatted Google Doc to a simple, readable Markdown or HTML text file. gd2md-html lets you use Google Docs' editing, formatting, and collaboration tools before you publish to a Markdown or HTML platform. (contributed by [Ed Bacher](https://github.com/evbacher))
 * [phpDocumentor](https://www.phpdoc.org/) - phpDocumentor enables you to generate documentation from your PHP source code. (contributed by [shivamdixit](https://shivamdixit.com))
+
+#### http links, not https
+* **NOT-HTTPS** [ApiGen](http://apigen.org/) - Creates clean API documentation from PHP source code (contributed by [bryceadams](https://bryce.se/))
+* **NOT-HTTPS** [JSDoc](http://usejsdoc.org/) - Generate JavaScript API documentation directly from source code comments. Also useful as a style guide for JS commenting, in general. Google uses a version of JSDoc tags for its [Closure compiler](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler).
+* **NOT-HTTPS** [Markdoc](http://markdoc.org/) - Lightweight documentation/wiki generator in Python, released in the [public domain](https://unlicense.org/). (contributed by [Neelfyn](https://neelfyn.com/))
+* **NOT-HTTPS** [MireDot](http://www.miredot.com) - REST API documentation generator for Java. Plugs into your build process and generates a searchable html page. (contributed by [bertvh](https://github.com/bertvh))
+* **NOT-HTTPS** [SassDoc](http://sassdoc.com/) - A Sass documentation generator that utilizes inline comments to make pretty and powerful docs. (contributed by [Hugo Giraudel](https://github.com/HugoGiraudel))
+* **NOT-HTTPS** [Sphinx](http://sphinx-doc.org/) - Comprehensive documentation tool using restructuredText with beautiful HTML and PDF output. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
