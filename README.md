@@ -44,10 +44,10 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Number Laundry API](https://github.com/WhatCheer/Number-Laundry) - Fun design, simple examples. (contributed by [@jmhobbs](https://twitter.com/jmhobbs))
 * [Underscore.js](http://underscorejs.org) - Simple, clean, single page. (contributed by [@twe4ked](http://twitter.com/twe4ked))
 * [Qt](http://doc.qt.io/) - Very comprehensive documentation with tutorials and guides and great examples. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
-* [CasperJS](http://casperjs.org) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript. (contributed by [@n1k0](https://twitter.com/n1k0))
+* [CasperJS](https://github.com/casperjs/casperjs) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript. (contributed by [@n1k0](https://twitter.com/n1k0))
 * [rubyamqp.info](http://rubyamqp.info) - A number of in-depth guides that cover Ruby `amqp` gem but also try to explain AMQP 0.9.1 features, why they exist, and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
 * [Savon.rb](http://savonrb.com/) - (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
-* [Android Developer Documentation](https://developer.android.com/guide) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
+* [Android Developer Documentation](https://developer.android.com/docs) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
 * [ØMQ - The Guide](http://zguide.zeromq.org/page:all) - Exciting documentation for an exciting lib. Concise working code examples available in multiple languages. Concepts are explained clearly. (contributed by [kindkid](https://github.com/kindkid))
 * [Postmark Developer Docs](http://developer.postmarkapp.com/) - Simple, easy to navigate, informative.
 * [Twitter Developers Docs](https://dev.twitter.com/docs) - In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))

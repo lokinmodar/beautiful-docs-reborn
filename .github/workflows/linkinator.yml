@@ -16,3 +16,7 @@ jobs:
           markdown: true
           retry: true
           verbosity: 'ERROR'
+          linksToSkip: "
+             https://docs.riak.com/, 
+             https://www.linode.com/docs/, 
+             https://pretty-rfc.herokuapp.com/"
