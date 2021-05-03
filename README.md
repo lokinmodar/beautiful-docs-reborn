@@ -104,7 +104,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [MkDocs](https://www.mkdocs.org/) - Documentation with Markdown, written in Python. (contributed by [ericbn](https://github.com/ericbn))
 * [Read the Docs](https://readthedocs.org/) - Hosted docs using Sphinx or MkDocs, supports translations and finding docs for specific software versions. Used by the Django Docs. (contributed by [Stephen Paulger](https://github.com/stephenpaulger))
 * [dr.js](https://github.com/adobe-webplatform/dr.js) - Tiny JavaScript documentation generator from the author of RaphaëlJS.  (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
-* [Markdoc](https://markdoc.org/) - Lightweight documentation/wiki generator in Python, released in the [public domain](https://unlicense.org/). (contributed by [Neelfyn](https://neelfyn.com/))
+* **NOT-HTTPS** [Markdoc](http://markdoc.org/) - Lightweight documentation/wiki generator in Python, released in the [public domain](https://unlicense.org/). (contributed by [Neelfyn](https://neelfyn.com/))
 * **NOT-HTTPS** [ApiGen](http://apigen.org/) - Creates clean API documentation from PHP source code (contributed by [bryceadams](https://bryce.se/))
 * [docgenerator](https://github.com/Ralt/docgenerator/blob/master/README.md) - Organize your documentation in Markdown files. (contributed by **NOT-HTTPS** [Florian Margaine](http://margaine.com))
 * [dexy](https://www.dexy.it/) - Extensible documentation/report generator supporting multiple programming languages and several input and output formats. (contributed by [troytop](https://github.com/troytop))
