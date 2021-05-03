@@ -24,13 +24,13 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [GitHub Developer Docs](https://developer.github.com/v3/) - I don't always get excited about accordion-based navigation, but when I do...
 * [Dropwizard](https://www.dropwizard.io/) - Beautiful and concise; another Bootstrap joint. (contributed by [mrtazz](https://twitter.com/#!/mrtazz)).)
 * [Riak Pipe README](https://github.com/basho/riak_pipe/blob/develop-3.0/README.org) - The simplicity of READMEs means that you can't obscure shitty content with flashy design. This one is written by my Basho colleague [Bryan Fink](https://twitter.com/#!/hobbyist) and should be committed to memory as an excellent example of how to write READMEs.
-* [Learn You Some Erlang](https://learnyousomeerlang.com/content) (contributed by [@lenary](https://twitter.com/lenary)) (It should also be noted that LYSE was inspired by Miran Lipovača's [Learn You A Haskell](https://learnyouahaskell.com/).)
+* [Learn You Some Erlang](https://learnyousomeerlang.com/content) (contributed by [@lenary](https://twitter.com/lenary)) (It should also be noted that LYSE was inspired by Miran Lipovača's **NOT-HTTPS** [Learn You A Haskell](http://learnyouahaskell.com/).)
 * [CoreOS](https://coreos.com/docs/) - Primary-colored goodness and a distributed system to boot (contributed by [@lucperkins](https://twitter.com/lucperkins))
 * [Django Documentation](https://docs.djangoproject.com/en/) - (contributed by [@bretthoerner](https://twitter.com/bretthoerner))
 * [Clojuredocs.org](https://clojuredocs.org) (contributed by [@mrb_bk](https://twitter.com/#!/mrb_bk))
 * [FreeBSD Handbook](https://www.freebsd.org/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
 * [Ruby on Rails Guides](https://guides.rubyonrails.org/) - (contributed by [@seancribbs](https://twitter.com/#!/seancribbs))
-* [Pow Annotated Source](https://pow.cx/docs/) - Built with [docco.](https://github.com/jashkenas/docco) (contributed by [@BonzoESC](https://twitter.com/BonzoESC))
+* **NOT-HTTPS** [Pow Annotated Source](http://pow.cx/docs/) - Built with [docco.](https://github.com/jashkenas/docco) (contributed by [@BonzoESC](https://twitter.com/BonzoESC))
 * [Stripe Documentation](https://stripe.com/docs) and [Full API Documentation](https://stripe.com/docs/api) - Multiple languages, example code, good detail on the API; especially love how the API docs show examples for curl and their supported client libraries. (contributed simultaneously by [@tnm](https://twitter.com/#!/tnm) and [@technoweenie](https://twitter.com/#!/technoweenie))
 * [Librato Developer Docs](https://www.librato.com/docs/api/) - Librato's RESTful API documentation. (contributed by [@josephruscio](https://twitter.com/josephruscio))
 * [CoffeeScript](https://coffeescript.org/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
@@ -45,8 +45,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Underscore.js](https://underscorejs.org) - Simple, clean, single page. (contributed by [@twe4ked](https://twitter.com/twe4ked))
 * [Qt](https://doc.qt.io/) - Very comprehensive documentation with tutorials and guides and great examples. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [CasperJS](https://github.com/casperjs/casperjs) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript. (contributed by [@n1k0](https://twitter.com/n1k0))
-* [rubyamqp.info](https://rubyamqp.info) - A number of in-depth guides that cover Ruby `amqp` gem but also try to explain AMQP 0.9.1 features, why they exist, and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
-* [Savon.rb](https://savonrb.com/) - (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
+* **NOT-HTTPS** [rubyamqp.info](http://rubyamqp.info) - A number of in-depth guides that cover Ruby `amqp` gem but also try to explain AMQP 0.9.1 features, why they exist, and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
+* **NOT-HTTPS** [Savon.rb](http://savonrb.com/) - (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
 * [Android Developer Documentation](https://developer.android.com/docs) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
 * [ØMQ - The Guide](https://zguide.zeromq.org/page:all) - Exciting documentation for an exciting lib. Concise working code examples available in multiple languages. Concepts are explained clearly. (contributed by [kindkid](https://github.com/kindkid))
 * [Postmark Developer Docs](https://developer.postmarkapp.com/) - Simple, easy to navigate, informative.
@@ -58,15 +58,15 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Riak Docs](https://docs.riak.com/) (aka formerly "basho") - Well-designed, excellent use of versioning, integrated search, and much more.
 * [Go By Example](https://gobyexample.com/) - Clean, simple, and extensive. These docs that make you want to learn Go just because they make it so straightforward.
 * [gevent API Docs](https://www.gevent.org/intro.html) - Clean, polished docs for gevent. (contributed by [rubik](https://github.com/rubik))
-* [CodernityDB](https://labs.codernity.com/codernitydb/index.html) - Clean, extensive, useful. I also love the fact that the day the software was released the documentation was this extensive.
+* **NOT-HTTPS** [CodernityDB](http://labs.codernity.com/codernitydb/index.html) - Clean, extensive, useful. I also love the fact that the day the software was released the documentation was this extensive.
 * [Riemann](https://riemann.io/) - Great design, easy to read, and very thorough with introductory and advanced topics.
 * [Pretty RFC](https://pretty-rfc.herokuapp.com/) - Reworked [IETF](https://www.ietf.org) documents for easier viewing.
 * [Vagrant](https://www.vagrantup.com/docs/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
 * [Wolfram Language](https://reference.wolfram.com/language/) - Nice top-level navigation in a grid layout. Topics grouped by color, each with a relevant graphic and on-click menu of sub-topics. (contributed by [troytop](https://github.com/troytop))
 * [Lisp Flavored Erlang: Quick Start](https://lfe.gitbooks.io/quick-start/content/) - Attractive presentation, nice jumpstart for the language. (contributed by [@macintux](https://twitter.com/macintux))
-* [Thinking Forth](https://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux))
+* **NOT-HTTPS** [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux))
 * [Packer Documentation](https://www.packer.io/docs) - These are just lovely.
-* [Abjad: Modeling Music in Python](https://abjad.mbrsi.org/) - Clean styling, and impressive integration of figures and diagrams. (contributed by [@adorsk](https://github.com/adorsk))
+* **NOT-HTTPS** [Abjad: Modeling Music in Python](http://abjad.mbrsi.org/) - Clean styling, and impressive integration of figures and diagrams. (contributed by [@adorsk](https://github.com/adorsk))
 * [SqlAlchemy](https://docs.sqlalchemy.org/) - One of the most comprehensive pieces of documentation I've ever seen, with excellent linking and layout. (contributed by [@adorsk](https://github.com/adorsk))
 * [Sonata Project](https://sonata-project.org/bundles/) - All the Sonata Project bundles for Symfony2 on a single page. These have a nice, clear layout. (contributed by @NoScopie (non-active profile))
 * [Laravel](https://laravel.com/docs) - Easily-readable and well-organized docs. Navigation is well formatted and articles are easy to consume. (contributed by [@ToddSmithSalter](https://github.com/toddsmithsalter))
@@ -82,7 +82,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [DocRaptor](https://docraptor.com/documentation) Covers HTML-to-PDF API language wrappers, styling instructions and core API docs.
 * [Google Developer Documentation Style Guide](https://developers.google.com/style) - The best style guide I've seen since the Sun Style Guide. I'm agitating to get my team to replace the MMoS with this as the place to look for style guidance that doesn't exist in our team's style guide. (contributed by [@carolinakinetic](https://github.com/carolinakinetic))
 * [Go Programming Language Docs](https://golang.org/doc/) - These docs are simple, well-organized, and effective. (contributed by [Ed Bacher](https://github.com/evbacher)).
-* [Sequelize](https://docs.sequelizejs.com/) - Simple, clear and well-structured docs with a complete Class Reference and listing of all public methods. (contributed by [@bandantonio](https://twitter.com/bandantonio))
+* **NOT-HTTPS** [Sequelize](http://docs.sequelizejs.com/) - Simple, clear and well-structured docs with a complete Class Reference and listing of all public methods. (contributed by [@bandantonio](https://twitter.com/bandantonio))
 * [Vue.js 3.x Docs](https://v3.vuejs.org/guide/introduction.html) - Awesome guide on the Vue.js framework, one of the best docs of any javascript frameworks in my opinion. If you had read them you don't need other manuals on the net to start coding with Vue. (co-contributed by [@flppv](https://github.com/flppv) & [@jinjiang](https://github.com/jinjiang))
 * [RStudio Documentation](https://docs.rstudio.com/) - Clean, simple, and easy on the eyes. (contributed by [@foxnic](https://github.com/foxnic))
 * [API Blueprint](https://github.com/apiaryio/api-blueprint) Clean, easy to skim. (Contributed by @pharkmillups)
@@ -105,11 +105,11 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Read the Docs](https://readthedocs.org/) - Hosted docs using Sphinx or MkDocs, supports translations and finding docs for specific software versions. Used by the Django Docs. (contributed by [Stephen Paulger](https://github.com/stephenpaulger))
 * [dr.js](https://github.com/adobe-webplatform/dr.js) - Tiny JavaScript documentation generator from the author of RaphaëlJS.  (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [Markdoc](https://markdoc.org/) - Lightweight documentation/wiki generator in Python, released in the [public domain](https://unlicense.org/). (contributed by [Neelfyn](https://neelfyn.com/))
-* [ApiGen](https://apigen.org/) - Creates clean API documentation from PHP source code (contributed by [bryceadams](https://bryce.se/))
-* [docgenerator](https://github.com/Ralt/docgenerator/blob/master/README.md) - Organize your documentation in Markdown files. (contributed by [Florian Margaine](https://margaine.com))
+* **NOT-HTTPS** [ApiGen](http://apigen.org/) - Creates clean API documentation from PHP source code (contributed by [bryceadams](https://bryce.se/))
+* [docgenerator](https://github.com/Ralt/docgenerator/blob/master/README.md) - Organize your documentation in Markdown files. (contributed by **NOT-HTTPS** [Florian Margaine](http://margaine.com))
 * [dexy](https://www.dexy.it/) - Extensible documentation/report generator supporting multiple programming languages and several input and output formats. (contributed by [troytop](https://github.com/troytop))
 * [Slate](https://github.com/tripit/slate) - Static API documentation creation tool from the team at Tripit.
-* [MireDot](https://www.miredot.com) - REST API documentation generator for Java. Plugs into your build process and generates a searchable html page. (contributed by [bertvh](https://github.com/bertvh))
+* **NOT-HTTPS** [MireDot](http://www.miredot.com) - REST API documentation generator for Java. Plugs into your build process and generates a searchable html page. (contributed by [bertvh](https://github.com/bertvh))
 * [codo](https://github.com/coffeedoc/codo) - CoffeeScript API documentation generator, similar to YARD. (contributed by [Logan Koester](https://github.com/logankoester))
 * [Flatdoc](https://ricostacruz.com/flatdoc/) - Create well designed open source documentation from Github repository README files or simple Markdown files. (contributed by [@moore](https://twitter.com/moore))
 * [GitBook](https://github.com/GitbookIO/gitbook) - Utility for generating documentation, books and exercises using GitHub/Git and Markdown. (contributed by [Samy Pessé](https://github.com/SamyPesse))
@@ -119,11 +119,11 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Hologram](https://trulia.github.io/hologram/) - Hologram is a Ruby gem that parses comments in your CSS and helps you turn them into a beautiful style guide. (contributed by [@jchild3rs](https://github.com/jchild3rs))
 * [Middleman](https://middlemanapp.com/) - Static site generator using all the shortcuts and tools in modern web development. (contributed by [Sota Yamashtia](https://github.com/sotayamashita))
 * [documentation.js](https://github.com/documentationjs/documentation) - Generates documentation from JavaScript source code. (contributed by [tmcw](https://github.com/tmcw))
-* [SassDoc](https://sassdoc.com/) - A Sass documentation generator that utilizes inline comments to make pretty and powerful docs. (contributed by [Hugo Giraudel](https://github.com/HugoGiraudel))
+* **NOT-HTTPS** [SassDoc](http://sassdoc.com/) - A Sass documentation generator that utilizes inline comments to make pretty and powerful docs. (contributed by [Hugo Giraudel](https://github.com/HugoGiraudel))
 * [Pickles](https://www.picklesdoc.com/#!index.md) - Pickles is an open source living documentation generator that works on feature files written in the Gherkin language.
 * [ApiDoc](https://github.com/apidoc/apidoc) RESTful web API Documentation Generator that creates documentation from API descriptions in your source code. (contributed by [Trenton Broughton](https://github.com/trenton42))
 * [Documentation theme for Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/) - Documentation theme built on Jekyll. Includes detailed notes on how to tackle nearly every technical documentation scenario, from single sourcing to conditional filtering, PDF output, relative links, and more.
-* [JSDoc](https://usejsdoc.org/) - Generate JavaScript API documentation directly from source code comments. Also useful as a style guide for JS commenting, in general. Google uses a version of JSDoc tags for its [Closure compiler](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler).
+* **NOT-HTTPS** [JSDoc](http://usejsdoc.org/) - Generate JavaScript API documentation directly from source code comments. Also useful as a style guide for JS commenting, in general. Google uses a version of JSDoc tags for its [Closure compiler](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler).
 * [Asciidoctor](https://asciidoctor.org/) - Asciidoctor is a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. (contributed by [ThomasG77](https://github.com/ThomasG77))
 * [Bookdown](https://bookdown.org/) - A open-source (GPL-3) R package to facilitate writing books and long-form articles/reports with R Markdown. Support for languages other than R, including C/C++, Python, and SQL, etc. (contributed by [ThomasG77](https://github.com/ThomasG77))
 * [Pandoc](https://pandoc.org/) If you need to convert files from one markup format into another, pandoc is your swiss-army knife. Can generate documentation from most common markup languages. (contributed by [ThomasG77](https://github.com/ThomasG77))
