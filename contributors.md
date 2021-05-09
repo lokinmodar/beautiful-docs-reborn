@@ -22,7 +22,7 @@ Original creator: @pharkmillups
 - [David M. Lee](https://github.com/leedm777)
 - **NOT-HTTPS** [Florian Margaine](http://margaine.com)
 - @NoScopie - no valid profile link
-- @dciccale - no valid profile link
+- [@dciccale](https://github.com/dciccale)
 - Derek Kastner - no valid profile link
 - [@BonzoESC](https://twitter.com/BonzoESC)
 - [@ToddSmithSalter](https://github.com/toddsmithsalter)
