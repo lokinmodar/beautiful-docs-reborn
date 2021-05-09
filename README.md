@@ -71,7 +71,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Stripe Documentation](https://stripe.com/docs) and [Full API Documentation](https://stripe.com/docs/api) - Multiple languages, example code, good detail on the API; especially love how the API docs show examples for curl and their supported client libraries. (contributed simultaneously by [@tnm](https://twitter.com/#!/tnm) and [@technoweenie](https://twitter.com/#!/technoweenie))
 * [Symfony2 Docs](https://symfony.com/doc/current/) (contributed by [Rodney Keeling](https://github.com/rodneykeeling))
 * [The LTTng Documentation](https://lttng.org/docs) - The whole documentation of the open source LTTng project on a single page (one page per project release). Features are: sparse style with pleasant colors, good information structure, auto-scrolling navigation, mobile-friendly, dedicated example boxes, glossary, tight integration with the [online man pages](https://lttng.org/man/) of the same version which are rendered with the same style. [Source](https://github.com/lttng/lttng-docs) is written in AsciiDoc (project's man pages too), with custom inline macros for specific features. (contributed by [@eepp](https://eepp.ca/))
-* [Twitter Bootstrap](https://getbootstrap.com/) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest))
+* [Twitter Bootstrap](https://getbootstrap.com/) - Documented the project using the project.
 * [Twitter Developers Docs](https://dev.twitter.com/docs) - In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))
 * [Underscore.js](https://underscorejs.org) - Simple, clean, single page. (contributed by [@twe4ked](https://twitter.com/twe4ked))
 * [Vagrant](https://www.vagrantup.com/docs/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
@@ -79,7 +79,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Why's (Poignant) Guide to Ruby](https://poignant.guide/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Wolfram Language](https://reference.wolfram.com/language/) - Nice top-level navigation in a grid layout. Topics grouped by color, each with a relevant graphic and on-click menu of sub-topics. (contributed by [troytop](https://github.com/troytop))
 * [gevent API Docs](https://www.gevent.org/intro.html) - Clean, polished docs for gevent. (contributed by [rubik](https://github.com/rubik))
-* [hogan.js](https://twitter.github.io/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
+* [hogan.js](https://twitter.github.io/hogan.js/) - Simple and Beautiful.
 * [ØMQ - The Guide](https://zguide.zeromq.org/page:all) - Exciting documentation for an exciting lib. Concise working code examples available in multiple languages. Concepts are explained clearly. (contributed by [kindkid](https://github.com/kindkid))
 
 #### http links, not https
@@ -104,7 +104,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Asciidoctor](https://asciidoctor.org/) - Asciidoctor is a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. (contributed by [ThomasG77](https://github.com/ThomasG77))
 * [Bookdown](https://bookdown.org/) - A open-source (GPL-3) R package to facilitate writing books and long-form articles/reports with R Markdown. Support for languages other than R, including C/C++, Python, and SQL, etc. (contributed by [ThomasG77](https://github.com/ThomasG77))
 * [Daux](https://github.com/justinwalsh/daux.io) - A documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. (contributed by [veshinak](https://github.com/veshinak))
-* [DocumentUp](https://documentup.com/jeromegn/documentup) - Instantly beautify your Github repositories' `README.md`. (contributed by [@kylewest](https://twitter.com/kylewest))
+* [DocumentUp](https://documentup.com/jeromegn/documentup) - Instantly beautify your Github repositories' `README.md`.
 * [Documentation theme for Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/) - Documentation theme built on Jekyll. Includes detailed notes on how to tackle nearly every technical documentation scenario, from single sourcing to conditional filtering, PDF output, relative links, and more.
 * [Documize](https://github.com/documize/community) - One place to author, approve, publish documentation (contributed by [HarveyKandola](https://github.com/HarveyKandola))
 * [Doxygen](https://www.doxygen.nl/index.html) - Doxygen is the de facto standard tool for generating documentation from almost all popular programming languages. (contributed by [@nocomplexity](https://github.com/nocomplexity))
@@ -124,7 +124,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [codo](https://github.com/coffeedoc/codo) - CoffeeScript API documentation generator, similar to YARD. (contributed by [Logan Koester](https://github.com/logankoester))
 * [comment.js](https://github.com/dciccale/comment.js) - Simple API documentation generator. (contributed by @dciccale - no valid profile link)
 * [dexy](https://www.dexy.it/) - Extensible documentation/report generator supporting multiple programming languages and several input and output formats. (contributed by [troytop](https://github.com/troytop))
-* [docco](https://jashkenas.github.io/docco/) - Pretty docs from source code comments with ports for many languages. (contributed by [@kylewest](https://twitter.com/kylewest))
+* [docco](https://jashkenas.github.io/docco/) - Pretty docs from source code comments with ports for many languages.
 * [docgenerator](https://github.com/Ralt/docgenerator/blob/master/README.md) - Organize your documentation in Markdown files. (contributed by **NOT-HTTPS** [Florian Margaine](http://margaine.com))
 * [documentation.js](https://github.com/documentationjs/documentation) - Generates documentation from JavaScript source code. (contributed by [tmcw](https://github.com/tmcw))
 * [dr.js](https://github.com/adobe-webplatform/dr.js) - Tiny JavaScript documentation generator from the author of RaphaëlJS.  (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
