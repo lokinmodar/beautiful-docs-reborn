@@ -21,12 +21,12 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 
 ### And Now For The Docs 
 
-* [API Blueprint](https://github.com/apiaryio/api-blueprint) Clean, easy to skim. (Contributed by @pharkmillups)
+* [API Blueprint](https://github.com/apiaryio/api-blueprint) Clean, easy to skim. 
 * [Android Developer Documentation](https://developer.android.com/docs)
 * [Atlassian GIT Tutorials](https://www.atlassian.com/git/) - Documentation and tutorials on Git. I like their layout. It is simple and focused on explaining the concepts with good diagrams, tutorials and glossary. 
 * [Brighter Planet API](https://brightplanet.com/data-feed-api-guide/)
 * [CasperJS](https://github.com/casperjs/casperjs) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript.
-* [Circles and Sines](https://github.com/PharkMillups/beautiful-docs/issues/105) (Contributed by @pharkmillups)
+* [Circles and Sines](https://jackschaedler.github.io/circles-sines-signals/)
 * [Clojuredocs.org](https://clojuredocs.org)
 * [CoffeeScript](https://coffeescript.org/) 
 * [CoreOS](https://coreos.com/docs/) - Primary-colored goodness and a distributed system to boot
