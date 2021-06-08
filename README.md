@@ -1,4 +1,6 @@
 # History
+[Open Google](www.gogole.com)
+
 On Sunday, May 2nd, 2021 someone shared the root repository with me. And this line stood out to me:
 > **DO YOU WANT TO BUILD AND WRITE GLORIOUS TECHNICAL DOCUMENTATION FULL TIME? EMAIL mark@helium.com. WE NEED YOU.**
 
